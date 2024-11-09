@@ -1,6 +1,6 @@
 # VirtualR
 
-A Website Develope company project project using React Js and Tailwind css
+A Website Develop company project project using React Js and Tailwind css
 
 Cheak Live:
 
